@@ -1,2 +1,2 @@
-# Kambo
-Kambo
+# Data Pipelines for 'Psychological Outcomes of Human Participants in the Kambo Ritual: Predictors of Participant, Ritual, and Session-Level Factors in Prospective Observational Study'
+The two repositories here document how we first cleaned, then analyzed our dataset. Our main statistician, T Wagner, is not a professional coder and has used snippets of code from previous projects and several LLMs to assist him; he apologizes for any redundancies or inefficiencies.
